@@ -1,0 +1,11 @@
+com/parse/starter/ScrollingActivity.java
+ com.parse.starter.ScrollingActivity
+ com.parse.starter.ScrollingActivity$1
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+ com.parse.starter.MainActivity$1
+ com.parse.starter.MainActivity$2
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
